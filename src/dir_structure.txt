@@ -1,0 +1,8 @@
+soapnotescribe/
+|-- .env
+|-- main.py
+|-- requirements.txt
+|-- README.md
+|-- tests/
+    |-- __init__.py
+    |-- test_main.py

@@ -1,0 +1,6 @@
+openai
+requests
+python-dotenv
+tk
+pytest
+pytest-cov
